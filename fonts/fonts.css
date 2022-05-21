@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url(./PTSans-Regular.woff2) format(woff2),
+         url(./PTSans-Regular.woff) format(woff);
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    font-style: italic;
+    font-weight: 400;
+    src: url(./PTSans-Italic.woff2) format(woff2),
+         url(./PTSans-Italic.woff) format(woff);
+}
+
+@font-face {
+    font-family: 'PT Sans';
+    font-style: bold;
+    font-weight: 700;
+    src: url(./PTSans-Bold.woff2) format(woff2),
+         url(./PTSans-Bold.woff) format(woff);
+}
+
+@font-face {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    src: url(./Lato-Regular.woff2) format(woff2),
+         url(./Lato-Regular.woff) format(woff);
+}
