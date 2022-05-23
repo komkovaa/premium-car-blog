@@ -1,0 +1,8 @@
+.paragraph {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    font-size: 14px;
+    line-height: 24px;
+    color: #666;
+}

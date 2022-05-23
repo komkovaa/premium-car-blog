@@ -1,13 +1,10 @@
 .title {
     position: absolute;
-    bottom: 23px;
-    left: 20px;
-    color: #fff;
-    font-weight:400;
+    color: #171717;
+    font-weight: 700;
     font-size: 20px;
-    line-height: 30px;
+    line-height: 28px;
     margin: 0;
     padding: 0;
-    width: 265px;
     z-index: 9;
 }
