@@ -12,4 +12,4 @@
 - сверстать форму для новостной подписки.
 
 [Ссылка на проект](https://komkovaa.github.io/premium-car-blog/)  
-[Макет](file:///C:/Users/komko/dev/premium%20car%20blog/index.html)
+[Макет](https://www.figma.com/file/zpEryUaC1ranXzf9jAsK2c/Premium-Car-Blog-Template)
