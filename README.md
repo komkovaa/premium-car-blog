@@ -11,4 +11,5 @@
 - сделать сайт адаптивным;
 - сверстать форму для новостной подписки.
 
-[Ссылка на проект](https://komkovaa.github.io/premium-car-blog/)
+[Ссылка на проект](https://komkovaa.github.io/premium-car-blog/)  
+[Макет](file:///C:/Users/komko/dev/premium%20car%20blog/index.html)
